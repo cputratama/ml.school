@@ -10,9 +10,9 @@ This repository is part of the [Machine Learning School](https://www.ml.school) 
 
 The best way to clone and run the source code from this repository is using a Development Container.
 
-[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/cputratama/ml.school)
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/svpino/ml.school)
 
-Most Integrated Development Environments support Development Containers. If you have Visual Studio Code and Docker installed, you can click the badge above or [this link](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/cputratama/ml.school) to automatically install the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers), clone the repository into a container volume, and spin up a container.
+Most Integrated Development Environments support Development Containers. If you have Visual Studio Code and Docker installed, you can click the badge above or [this link](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/svpino/ml.school) to automatically install the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers), clone the repository into a container volume, and spin up a container.
 
 A Development Container is a Docker container configured as a fully functional development environment isolated from your operating system. You can use your IDE to edit, build, and run the project without spending time setting up your local environment or worrying about altering it.
 
